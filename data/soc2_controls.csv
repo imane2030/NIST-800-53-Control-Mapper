@@ -1,0 +1,8 @@
+id,name,description
+CC6.1,Logical and Physical Access Controls,Restricts logical and physical access
+CC6.2,Prior to Issuing System Credentials,Identifies and authenticates users
+CC6.3,Multi-Factor Authentication,Requires multi-factor authentication
+CC6.6,Least Privilege,Restricts access to authorized individuals
+CC6.7,Role-Based Access Control,Uses role-based access controls
+CC7.2,System Monitoring,Generates logs for security events
+CC7.3,Log Retention,Retains logs for investigation
