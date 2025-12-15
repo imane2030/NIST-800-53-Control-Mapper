@@ -1,0 +1,10 @@
+id,name,description
+A.9.2.1,User registration and de-registration,Formal user registration and de-registration process
+A.9.2.2,User access provisioning,User access provisioning process
+A.9.4.1,Information access restriction,Access to information restricted according to policy
+A.12.4.1,Event logging,Event logs recording activities shall be produced
+A.12.4.2,Protection of log information,Logging facilities and log information protected
+A.12.4.3,Administrator and operator logs,System administrator and operator activities logged
+A.13.1.1,Network controls,Networks shall be managed and controlled
+A.14.1.2,Securing application services,Information in application services protected
+A.18.1.3,Protection of records,Records shall be protected from loss and destruction
