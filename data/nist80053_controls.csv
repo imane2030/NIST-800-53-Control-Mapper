@@ -1,0 +1,16 @@
+id,name,description
+AC-1,Access Control Policy and Procedures,Develop and document access control policies
+AC-2,Account Management,Manage information system accounts
+AC-3,Access Enforcement,Enforce approved authorizations for access
+AC-4,Information Flow Enforcement,Enforce approved authorizations for controlling information flow
+AC-6,Least Privilege,Employ the principle of least privilege
+AU-2,Audit Events,Determine auditable events
+AU-3,Content of Audit Records,Generate audit records with specific content
+AU-6,Audit Review Analysis and Reporting,Review and analyze audit records
+AU-12,Audit Generation,Provide audit record generation capability
+CM-2,Baseline Configuration,Develop and maintain baseline configurations
+IA-2,Identification and Authentication,Uniquely identify and authenticate users
+SC-7,Boundary Protection,Monitor and control communications at system boundaries
+SC-13,Cryptographic Protection,Implement cryptographic mechanisms
+SC-28,Protection of Information at Rest,Protect the confidentiality and integrity of information at rest
+SI-4,Information System Monitoring,Monitor the information system
